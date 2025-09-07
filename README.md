@@ -1,4 +1,4 @@
-# Construction Q\&A + Discrepancy Checker — MVP..
+# Construction Q\&A + Discrepancy Checker — MVP.
 
 ## Overview
 
